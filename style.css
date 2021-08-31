@@ -1,0 +1,11 @@
+.githubArea{
+    background-color: brown;
+    width: 50px auto;
+    height: 200px;
+    padding-top: 100px;
+}
+
+h1, h2{
+    color: cornsilk;
+    text-align: center;
+}
